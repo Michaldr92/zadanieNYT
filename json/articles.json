@@ -1,0 +1,303 @@
+﻿{
+  "response": {
+    "meta": {
+      "hits": 16169976,
+      "time": 185,
+      "offset": 0
+    },
+    "docs": [
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/06/26/world/americas/ap-lt-mexico-violence.html",
+        "snippet": "Mexican authorities say the brother of legendary boxer Julio Cesar Chavez has been killed in his home in western Mexico....",
+        "lead_paragraph": "Mexican authorities say the brother of legendary boxer Julio Cesar Chavez has been killed in his home in western Mexico.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Brother of Legendary Mexican Fight Julio Cesar Chavez Killed",
+          "print_headline": "Brother of Legendary Mexican Fight Julio Cesar Chavez Killed"
+        },
+        "keywords": [],
+        "pub_date": "2017-06-26T16:25:20+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5951357a95d0e02550996fe5",
+        "word_count": 101,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/06/26/world/europe/ap-eu-italy-mini-pompeii.html",
+        "snippet": "Digging for Rome's new subway has unearthed the charred ruins of a 3rd century building and the 1,800-year-old skeleton of a dog that apparently perished in a fire....",
+        "lead_paragraph": "Digging for Rome's new subway has unearthed the charred ruins of a 3rd century building and the 1,800-year-old skeleton of a dog that apparently perished in a fire.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Subway Digging Uncovers 'Pompeii-Like Scene' in Rome",
+          "print_headline": "Subway Digging Uncovers 'Pompeii-Like Scene' in Rome"
+        },
+        "keywords": [],
+        "pub_date": "2017-06-26T16:25:18+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5951357995d0e02550996fe4",
+        "word_count": 129,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/06/26/business/26reuters-ecb-policy-draghi.html",
+        "snippet": "Europe's growing inequality is highly destabilising and needs to be tackled with education, innovation and investment in human capital, particularly jobs for young people, European Central Bank President Mario Draghi said on Monday....",
+        "lead_paragraph": "Europe's growing inequality is highly destabilising and needs to be tackled with education, innovation and investment in human capital, particularly jobs for young people, European Central Bank President Mario Draghi said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Europe's Inequality Highly Destabilising, ECB's Draghi Says",
+          "print_headline": "Europe's Inequality Highly Destabilising, ECB's Draghi Says"
+        },
+        "keywords": [],
+        "pub_date": "2017-06-26T16:24:33+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5951354995d0e02550996fe3",
+        "word_count": 299,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/06/26/us/ap-us-highway-truck-stops-drugs.html",
+        "snippet": "A California truck driver stopped on a New Jersey highway with 64 kilograms (141 pounds) of heroin and 10 kilograms (22 pounds) of cocaine has been sentenced to 10 years in state prison....",
+        "lead_paragraph": "A California truck driver stopped on a New Jersey highway with 64 kilograms (141 pounds) of heroin and 10 kilograms (22 pounds) of cocaine has been sentenced to 10 years in state prison.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Truck Driver Sentenced on Drug Charges After Highway Stop",
+          "print_headline": "Truck Driver Sentenced on Drug Charges After Highway Stop"
+        },
+        "keywords": [],
+        "pub_date": "2017-06-26T16:22:11+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "595134c095d0e02550996fe2",
+        "word_count": 130,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/06/26/us/ap-us-amusement-park-fall.html",
+        "snippet": "Authorities say a 14-year-old Delaware girl's actions caused her to fall from a New York amusement park ride and land in the arms of bystanders....",
+        "lead_paragraph": "Authorities say a 14-year-old Delaware girl's actions caused her to fall from a New York amusement park ride and land in the arms of bystanders.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Girl's Actions Caused Her to Fall From NY Park Ride",
+          "print_headline": "Police: Girl's Actions Caused Her to Fall From NY Park Ride"
+        },
+        "keywords": [],
+        "pub_date": "2017-06-26T16:22:09+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "595134bc95d0e02550996fe1",
+        "word_count": 141,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/06/26/sports/tennis/26reuters-tennis-eastbourne-women-kerber.html",
+        "snippet": "World number one Angelique Kerber needs no reminding how perilous life on Tour can be when you are the player everyone wants to knock off their perch....",
+        "lead_paragraph": "World number one Angelique Kerber needs no reminding how perilous life on Tour can be when you are the player everyone wants to knock off their perch.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Kerber Says Top Ranking Weighs, but Ready for Grass Season",
+          "print_headline": "Kerber Says Top Ranking Weighs, but Ready for Grass Season"
+        },
+        "keywords": [],
+        "pub_date": "2017-06-26T16:21:34+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5951349c95d0e02550996fe0",
+        "word_count": 439,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/06/26/us/26reuters-maryland-crime-fire.html",
+        "snippet": "A Baltimore woman accused of killing six of her children in a 1992 fire that shocked the city is to stand trial again on Monday, after discredited arson evidence led her murder convictions to be overturned....",
+        "lead_paragraph": "A Baltimore woman accused of killing six of her children in a 1992 fire that shocked the city is to stand trial again on Monday, after discredited arson evidence led her murder convictions to be overturned.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Baltimore Woman Accused of Killing Six Children in Fire Faces Retrial",
+          "print_headline": "Baltimore Woman Accused of Killing Six Children in Fire Faces Retrial"
+        },
+        "keywords": [],
+        "pub_date": "2017-06-26T16:21:34+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5951349c95d0e02550996fdf",
+        "word_count": 414,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/06/26/us/ap-us-plague-new-mexico.html",
+        "snippet": "The New Mexico Department of Health on Monday confirmed two more human cases of plague....",
+        "lead_paragraph": "The New Mexico Department of Health on Monday confirmed two more human cases of plague.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "2 More Plague Cases Reported in New Mexico's Santa Fe County",
+          "print_headline": "2 More Plague Cases Reported in New Mexico's Santa Fe County"
+        },
+        "keywords": [],
+        "pub_date": "2017-06-26T16:19:20+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5951341395d0e02550996fde",
+        "word_count": 283,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/06/26/us/26reuters-arizona-arpaio.html",
+        "snippet": "A former Arizona lawman known for his hard-line stance against illegal immigrants is to appear before a judge on Monday on a criminal contempt charge for violating a court order related to  a 2007 racial-profiling case....",
+        "lead_paragraph": "A former Arizona lawman known for his hard-line stance against illegal immigrants is to appear before a judge on Monday on a criminal contempt charge for violating a court order related to  a 2007 racial-profiling case. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Arizona Lawman to Face Criminal Contempt Trial in Phoenix",
+          "print_headline": "Arizona Lawman to Face Criminal Contempt Trial in Phoenix"
+        },
+        "keywords": [],
+        "pub_date": "2017-06-26T16:18:33+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "595133e395d0e02550996fdd",
+        "word_count": 387,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/06/26/world/middleeast/26reuters-gulf-qatar-usa-senate.html",
+        "snippet": "U.S. Senator Bob Corker, chairman of the Senate Foreign Relations Committee, said on Monday he would withhold consent for U.S. arms sales to members of the Gulf Cooperation Council until there is a path forward to resolving the dispute in the regi...",
+        "lead_paragraph": "U.S. Senator Bob Corker, chairman of the Senate Foreign Relations Committee, said on Monday he would withhold consent for U.S. arms sales to members of the Gulf Cooperation Council until there is a path forward to resolving the dispute in the region, where four Arab states have imposed a boycott on Qatar.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Republican to Withhold Consent for Arms Sales Over Gulf Dispute",
+          "print_headline": "U.S. Republican to Withhold Consent for Arms Sales Over Gulf Dispute"
+        },
+        "keywords": [],
+        "pub_date": "2017-06-26T16:18:28+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "595133db95d0e02550996fdc",
+        "word_count": 284,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}
